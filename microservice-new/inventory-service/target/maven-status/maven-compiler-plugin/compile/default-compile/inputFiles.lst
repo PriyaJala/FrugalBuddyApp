@@ -1,0 +1,6 @@
+/Users/priya/SpringBootProjects/microservice-new/inventory-service/src/main/java/com/microservicepractice/inventoryservice/controller/InventoryController.java
+/Users/priya/SpringBootProjects/microservice-new/inventory-service/src/main/java/com/microservicepractice/inventoryservice/model/Inventory.java
+/Users/priya/SpringBootProjects/microservice-new/inventory-service/src/main/java/com/microservicepractice/inventoryservice/repository/InventoryRepository.java
+/Users/priya/SpringBootProjects/microservice-new/inventory-service/src/main/java/com/microservicepractice/inventoryservice/InventoryServiceApplication.java
+/Users/priya/SpringBootProjects/microservice-new/inventory-service/src/main/java/com/microservicepractice/inventoryservice/dto/InventoryResponse.java
+/Users/priya/SpringBootProjects/microservice-new/inventory-service/src/main/java/com/microservicepractice/inventoryservice/service/InventoryService.java

@@ -1,0 +1,7 @@
+com/microservicepractice/inventoryservice/repository/InventoryRepository.class
+com/microservicepractice/inventoryservice/service/InventoryService.class
+com/microservicepractice/inventoryservice/controller/InventoryController.class
+com/microservicepractice/inventoryservice/InventoryServiceApplication.class
+com/microservicepractice/inventoryservice/model/Inventory.class
+com/microservicepractice/inventoryservice/dto/InventoryResponse.class
+com/microservicepractice/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class

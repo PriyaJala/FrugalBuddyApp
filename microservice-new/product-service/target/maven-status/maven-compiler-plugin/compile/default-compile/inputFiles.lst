@@ -1,0 +1,7 @@
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/model/Product.java
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/repository/ProductRepository.java
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/ProductServiceApplication.java
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/service/ProductService.java
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/dto/ProductRequest.java
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/dto/ProductResponse.java
+/Users/priya/SpringBootProjects/microservice-new/product-service/src/main/java/com/microservicepractice/productservice/controller/ProductController.java
